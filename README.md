@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Banner Erika Gomes" width="100%">
-</p>
 
 
 # Olá! Eu sou a Erika Gomes 👋
