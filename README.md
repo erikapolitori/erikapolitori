@@ -5,7 +5,7 @@
 
 # Olá! Eu sou a Erika Gomes 👋
 
-Graduanda em **Sistemas para Internet** apaixonada por transformar problemas reais em soluções através da tecnologia.
+Graduanda em **Sistemas para Internet** apaixonada por criar soluções através da tecnologia.
 
 Acredito que aprender construindo é a melhor forma de evoluir. Por isso, desenvolvo projetos práticos, documento cada etapa da construção e compartilho minha evolução através da **Project Case Collection**.
 
@@ -15,21 +15,21 @@ Acredito que aprender construindo é a melhor forma de evoluir. Por isso, desenv
 
 Sou apaixonada por aprender construindo.
 
-Cada projeto que desenvolvo nasce de um problema real e se transforma em uma oportunidade para estudar novas tecnologias, boas práticas e arquitetura de software.
+Acredito que cada projeto é uma oportunidade para evoluir tecnicamente, experimentar novas tecnologias e desenvolver soluções úteis.
 
-Meu objetivo é evoluir continuamente como desenvolvedora, criando soluções úteis, bem documentadas e com foco na experiência do usuário.
+Meu objetivo é crescer como desenvolvedora criando aplicações bem estruturadas, documentadas e que realmente façam diferença para quem as utiliza.
 
 ---
 
 ## 🛠️ Tecnologias
 
-### Linguagens
+### 💻 Linguagens
 
 - JavaScript
 - HTML
 - CSS
 
-### Ferramentas
+### ⚙️ Ferramentas
 
 - Google Apps Script
 - Google Sheets
@@ -37,7 +37,7 @@ Meu objetivo é evoluir continuamente como desenvolvedora, criando soluções ú
 - GitHub
 - VS Code
 
-### Integrações
+### 🔗 Integrações
 
 - REST APIs
 - WhatsApp Cloud API
@@ -55,7 +55,7 @@ Cada projeto desta coleção documenta não apenas o resultado final, mas també
 | 🌸 PROJECT CASE 003 | 🔒 Planejado |
 | 🌸 PROJECT CASE 004 | 🔒 Planejado |
 
-📄 **Projeto disponível:**
+📄 **Projeto publicado:**
 
 ➡️ Automação de Lembretes Financeiros via WhatsApp
 
@@ -75,13 +75,13 @@ https://github.com/erikapolitori/automacao-lembretes-financeiros-whatsapp
 
 ## 🤝 Vamos nos conectar
 
-💼 LinkedIn
+💼 **LinkedIn**
 
-https://www.linkedin.com/in/erika-gomes-politori
+[linkedin.com/in/erika-gomes-politori](https://www.linkedin.com/in/erika-gomes-politori)
 
-💻 GitHub
+📧 **E-mail**
 
-https://github.com/erikapolitori
+[politorierika@gmail.com](mailto:politorierika@gmail.com)
 
 ---
 
