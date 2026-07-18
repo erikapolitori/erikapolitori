@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner Erika Gomes" width="100%">
+  <img src="banner case.png" alt="Banner Erika Gomes" width="100%">
 </p>
 
 
